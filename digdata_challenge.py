@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Oct 23 14:44:49 2021
 
-@author: DELL
-"""
 
 
 import csv
